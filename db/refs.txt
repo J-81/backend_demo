@@ -1,0 +1,2 @@
+# Spinning up docker-compose based MongoDB
+- https://faun.pub/managing-mongodb-on-docker-with-docker-compose-26bf8a0bbae3
